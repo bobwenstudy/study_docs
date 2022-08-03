@@ -7,10 +7,10 @@ Welcome to study_docs's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
    
-   test.md
+   markdown/index
 
 
 
