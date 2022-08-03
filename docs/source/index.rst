@@ -10,7 +10,7 @@ Welcome to study_docs's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   Typora+PicGo+腾讯云.md
+   test.md
 
 
 
