@@ -7,8 +7,7 @@ Welcome to study_docs's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Contents:
+   :maxdepth: 3
    
    markdown/index
 
