@@ -10,6 +10,7 @@ Welcome to study_docs's documentation!
    :maxdepth: 3
    
    markdown/index
+   蓝牙/index
 
 
 
